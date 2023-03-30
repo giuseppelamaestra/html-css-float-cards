@@ -12,6 +12,8 @@
     
     margin: 0 auto;
 
+    font-family: sans-serif;
+
 }
 
 h1 {
@@ -20,7 +22,16 @@ h1 {
     font-size: 2rem;
 }
 
+p {
+    margin-top: 40px;
+    
+   
+}
 
+#text-under {
+    margin-top: 0%;
+    margin-left: 300px;
+}
 
 
 
@@ -31,4 +42,41 @@ h1 {
     content: "";
     display: table;
     clear: both;
+}
+
+.main-box {
+
+    height: 300px;
+    width: 100%;
+    
+    margin-top: 50px;
+}
+
+.boxline {
+
+   
+    
+    width: 33%;
+    float: left;
+    
+}
+.first-boxline {
+
+    background-color: black;
+    height: 80px;
+    width: 30%;
+    margin-bottom: 30px;
+    margin-right: 15px;
+}
+
+.second-boxline {
+
+    background-color: black;
+    height: 80px;
+    width: 30%;
+    margin-right: 15px;
+}
+
+img {
+    height: 80px;
 }
