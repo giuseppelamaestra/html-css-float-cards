@@ -50,21 +50,25 @@ p {
     width: 100%;
     
     margin-top: 50px;
+    
 }
 
 .boxline {
 
    
     
-    width: 33%;
+    width: 22%;
     float: left;
+    color: white;
+    font-size: 10px;
+    
     
 }
 .first-boxline {
 
     background-color: black;
     height: 80px;
-    width: 30%;
+    
     margin-bottom: 30px;
     margin-right: 15px;
 }
@@ -73,10 +77,13 @@ p {
 
     background-color: black;
     height: 80px;
-    width: 30%;
+   
     margin-right: 15px;
 }
 
 img {
     height: 80px;
+    float: left;
+    
 }
+
