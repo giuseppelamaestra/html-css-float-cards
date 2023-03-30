@@ -61,6 +61,7 @@ p {
     float: left;
     color: white;
     font-size: 10px;
+    padding: 5px 10px 5px 5px;
     
     
 }
@@ -87,3 +88,13 @@ img {
     
 }
 
+span {
+    margin-left: 10px; 
+    margin-bottom: 20px;
+    
+    
+}
+
+.nomi {
+    font-size: ;
+}
