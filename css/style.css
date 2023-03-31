@@ -48,7 +48,8 @@ h1 {
 .main-box {
 
     height: 300px;
-    width: 100%;
+    width: 90%;
+    margin: 0 auto;
     
     margin-top: 50px;
     
@@ -93,4 +94,9 @@ img {
 
 .mail { 
     color: rgb(0, 89, 255);
+}
+
+ h2,h3,p {
+
+    line-height: 20px;
 }
